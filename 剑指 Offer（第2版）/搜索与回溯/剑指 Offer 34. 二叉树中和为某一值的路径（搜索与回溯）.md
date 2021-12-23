@@ -6,12 +6,14 @@
 
 叶子节点 是指没有子节点的节点
 
-![](E:\Desktop\pathsumii1.jpg)
+![image-20211221150135670](C:\Users\zhangkunsong\AppData\Roaming\Typora\typora-user-images\image-20211221150135670.png)
 
 
 
+```
 输入：root = [5,4,8,11,null,13,4,7,2,null,null,5,1], targetSum = 22
 输出：[[5,4,11,2],[5,8,4,5]]
+```
 
 ### 解题方法
 

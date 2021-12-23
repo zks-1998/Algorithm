@@ -6,11 +6,9 @@
 
 为了让您更好地理解问题，以下面的二叉搜索树为例：
 
- ![](E:\Desktop\bstdllreturndll.png)
+![image-20211221150232535](C:\Users\zhangkunsong\AppData\Roaming\Typora\typora-user-images\image-20211221150232535.png)
 
 
-
- 
 
 我们希望将这个二叉搜索树转化为双向循环链表。链表中的每个节点都有一个前驱和后继指针。对于双向循环链表，第一个节点的前驱是最后一个节点，最后一个节点的后继是第一个节点
 
